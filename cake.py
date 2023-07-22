@@ -10,7 +10,7 @@ import cv2
 from skimage import io
 
 
-cake_url = "https://stylesweet.com/wp-content/uploads/2022/06/ChocolateCakeforTwo_01.jpg"
+cake_url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5xfBJ6rcoxym-AI0Xpqm0GFfwB_qMWyRsKUdekGrP5tzBWk6Xz1zVCyMvfbOrYfzCcMM&usqp=CAU"
 labelmap_url = "https://www.gstatic.com/aihub/tfhub/labelmaps/aiy_food_V1_labelmap.csv"
 input_shape = (192, 192)
 
