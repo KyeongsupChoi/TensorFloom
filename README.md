@@ -1,6 +1,6 @@
 ## ✨ Tensorfloom
 
-> Generate Wendler Exercise Sheets based on your One Rep Max weights  
+> Deep learning web project  
 > 
 > Hosted on https://kyeongsupchoi.pythonanywhere.com/wendler.html
 > 
