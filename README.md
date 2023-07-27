@@ -40,9 +40,11 @@ The project is coded using a simple and intuitive structure presented below:
 
 ## 📚 Libraries Used
 
-- ✅ `Django` - Basic Web Framework and MVT design pattern
-- ✅ `ReportLab` - Exporting in PDF format
-- ✅ `Docx` Exporting in DOCX format for Word and Google Docs
+- ✅ `Tensorflow` - Basic Web Framework and MVT design pattern
+- ✅ `Flask` - Exporting in PDF format
+- ✅ `OpenCV` Exporting in DOCX format for Word and Google Docs
+- ✅ `Pandas` Exporting in DOCX format for Word and Google Docs
+- ✅ `Numpy` Exporting in DOCX format for Word and Google Docs
 
 ## 🤖 텐서프룸
 
