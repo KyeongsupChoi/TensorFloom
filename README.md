@@ -1,4 +1,4 @@
-## ✨ Tensorfloom
+## 🤖 Tensorfloom
 
 > Deep learning web project  
 > 
@@ -6,7 +6,7 @@
 > 
 > Wendler Program explanation at https://www.t-nation.com/workouts/5-3-1-how-to-build-pure-strength/
 
-## ✨ Code-base structure
+## 📂 Code-base structure
 
 The project is coded using a simple and intuitive structure presented below:
 
@@ -38,7 +38,7 @@ The project is coded using a simple and intuitive structure presented below:
 
 <br />
 
-## Libraries Used
+## 📚 Libraries Used
 
 - ✅ `Django` - Basic Web Framework and MVT design pattern
 - ✅ `ReportLab` - Exporting in PDF format
