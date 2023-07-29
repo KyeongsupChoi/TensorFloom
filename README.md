@@ -1,10 +1,10 @@
 ## 🤖 Tensorfloom
 
-> Deep learning web project  
-> 
-> Hosted on https://kyeongsupchoi.pythonanywhere.com/wendler.html
-> 
-> Wendler Program explanation at https://www.t-nation.com/workouts/5-3-1-how-to-build-pure-strength/
+- Deep learning web project  
+
+- Hosted on
+
+- Wend://www.t-nation.com/workouts/5-3-1-how-to-build-pure-strength/
 
 ## 📂 Code-base structure
 
