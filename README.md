@@ -4,7 +4,7 @@
 
 - Hosted on
 
-- Wend://www.t-nation.com/workouts/5-3-1-how-to-build-pure-strength/
+- Wen
 
 ## 📂 Code-base structure
 
