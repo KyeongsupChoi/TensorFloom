@@ -48,9 +48,9 @@ The project is coded using a simple and intuitive structure presented below:
 
 ## 🤖 텐서프룸
 
-> One Rep Max 무게를 기반으로 Wendler 운동 시트 생성 웹앱
+> 딥러닝 프로젝트
 >
-> 라이브 사이트 https://kyeongsupchoi.pythonanywhere.com/wendler.html
+> 라이브 사이
 >
 > Wendler 운동 프로그램 설명: https://www.t-nation.com/workouts/5-3-1-how-to-build-pure-strength/
 
