@@ -41,11 +41,11 @@ The project is coded using a simple and intuitive structure presented below:
 
 ## 📚 Libraries Used
 
-- ✅ `Tensorflow` - Basic Web Framework and MVT design pattern
-- ✅ `Flask` - Exporting in PDF format
-- ✅ `OpenCV` Exporting in DOCX format for Word and Google Docs
-- ✅ `Pandas` Exporting in DOCX format for Word and Google Docs
-- ✅ `Numpy` Exporting in DOCX format for Word and Google Docs
+- `Tensorflow` - Basic Web Framework and MVT design pattern
+- `Flask` - Exporting in PDF format
+- `OpenCV` Exporting in DOCX format for Word and Google Docs
+- `Pandas` Exporting in DOCX format for Word and Google Docs
+- `Numpy` Exporting in DOCX format for Word and Google Docs
 
 ## 🤖 텐서프룸
 
@@ -90,8 +90,8 @@ The project is coded using a simple and intuitive structure presented below:
 
 ## 📚 사용된 라이브러리
 
-- ✅ `Tensorflow` - Basic Web Framework and MVT design pattern
-- ✅ `Flask` - Exporting in PDF format
-- ✅ `OpenCV` Exporting in DOCX format for Word and Google Docs
-- ✅ `Pandas` Exporting in DOCX format for Word and Google Docs
-- ✅ `Numpy` Exporting in DOCX format for Word and Google Docs
+- `Tensorflow` - Basic Web Framework and MVT design pattern
+- `Flask` - Exporting in PDF format
+- `OpenCV` - Exporting in DOCX format for Word and Google Docs
+- `Pandas` - Exporting in DOCX format for Word and Google Docs
+- `Numpy` - Exporting in DOCX format for Word and Google Docs
