@@ -2,9 +2,9 @@
 
 - Deep learning web project  
 
-- Hosted on
+- Hosted on TBD
 
-- Wen
+- MVP Deep Learning models deployed
 
 ## 📂 Code-base structure
 
@@ -13,26 +13,26 @@ The project is coded using a simple and intuitive structure presented below:
 ```bash
 < PROJECT ROOT >
    |
-   |-- pre_trained_model/                # Main app directory
-   |    |-- assets/                  
-   |    |    |-- tokens.txt              # Wendler html file with Django tags and Bootstrap          
+   |-- pre_trained_model/                # Directory to hold pre-trained model
+   |    |-- assets/                      # Assets directory 
+   |    |    |-- tokens.txt              # Tokens for words file         
    |    |
-   |    |-- variables/                   # Wendler html file with Django tags and Bootstrap        
-   |    |-- saved_model.pb               # ASGI config for mysite project.
+   |    |-- variables/                   # Variables file        
+   |    |-- saved_model.pb               # Deep learning model
    |
-   |-- static/           
-   |    |-- css/                         # Define Wendler models                     
-   |         |-- main.css                # Wendler html file with Django tags and Bootstrap    
+   |-- static/                           # Static directory
+   |    |-- css/                         # CSS directory                     
+   |         |-- main.css                # Main CSS file  
    |
-   |-- templates/                        # Handles Wendler input and calculations
-   |    |-- index.html                   # Deploys app in production
+   |-- templates/                        # Templates directory
+   |    |-- index.html                   # index html
    |
    |-- app.py                            # SQLite storage
    |-- cake.py                           # Standard readme documentation
    |-- test.py                           # Standard readme documentation
    |-- utils.py                          # Standard readme documentation
    |-- README.md                         # Standard readme documentation
-   |-- requirements.txt                  # Development modules
+   |-- requirements.txt                  # Required libraries file
    |
    |-- ************************************************************************
 ```
@@ -41,19 +41,19 @@ The project is coded using a simple and intuitive structure presented below:
 
 ## 📚 Libraries Used
 
-- `Tensorflow` - Basic Web Framework and MVT design pattern
-- `Flask` - Exporting in PDF format
-- `OpenCV` Exporting in DOCX format for Word and Google Docs
-- `Pandas` Exporting in DOCX format for Word and Google Docs
-- `Numpy` Exporting in DOCX format for Word and Google Docs
+- `Tensorflow` - Deep Learning Library
+- `Flask` - Basic Web Framework used for backend
+- `OpenCV` - Vision and image working Library
+- `Pandas` - Reading and working with CSV files
+- `Numpy` - Working with tensors and numpy arrays
 
 ## 🤖 텐서프룸
 
 > 딥러닝 프로젝트
 >
-> 라이브 사이
+> 라이브 사이트
 >
-> Wendler 운동 프로그램 설명: https://www.t-nation.com/workouts/5-3-1-how-to-build-pure-strength/
+> MVP
 
 ## 📂 코드 기반 구조
 
@@ -62,26 +62,26 @@ The project is coded using a simple and intuitive structure presented below:
 ```bash
 <프로젝트 루트>
    |
-   |-- pre_trained_model/                # Main app directory
-   |    |-- assets/                  
-   |    |    |-- tokens.txt              # Wendler html file with Django tags and Bootstrap          
+   |-- pre_trained_model/                # Directory to hold pre-trained model
+   |    |-- assets/                      # Assets directory 
+   |    |    |-- tokens.txt              # Tokens for words file         
    |    |
-   |    |-- variables/                   # Wendler html file with Django tags and Bootstrap        
-   |    |-- saved_model.pb               # ASGI config for mysite project.
+   |    |-- variables/                   # Variables file        
+   |    |-- saved_model.pb               # Deep learning model
    |
-   |-- static/           
-   |    |-- css/                         # Define Wendler models                     
-   |         |-- main.css                # Wendler html file with Django tags and Bootstrap    
+   |-- static/                           # Static directory
+   |    |-- css/                         # CSS directory                     
+   |         |-- main.css                # Main CSS file  
    |
-   |-- templates/                        # Handles Wendler input and calculations
-   |    |-- index.html                   # Deploys app in production
+   |-- templates/                        # Templates directory
+   |    |-- index.html                   # index html
    |
    |-- app.py                            # SQLite storage
    |-- cake.py                           # Standard readme documentation
    |-- test.py                           # Standard readme documentation
    |-- utils.py                          # Standard readme documentation
    |-- README.md                         # Standard readme documentation
-   |-- requirements.txt                  # Development modules
+   |-- requirements.txt                  # Required libraries file
    |
    |-- ************************************************************************
 ```
