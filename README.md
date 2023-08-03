@@ -90,8 +90,8 @@ The project is coded using a simple and intuitive structure presented below:
 
 ## 📚 사용된 라이브러리
 
-- `Tensorflow` - Basic Web Framework and MVT design pattern
-- `Flask` - Exporting in PDF format
-- `OpenCV` - Exporting in DOCX format for Word and Google Docs
-- `Pandas` - Exporting in DOCX format for Word and Google Docs
-- `Numpy` - Exporting in DOCX format for Word and Google Docs
+- `Tensorflow` - 딥러닝 라이브러리
+- `Flask` - 백엔드에 사용되는 기본 웹 프레임워크
+- `OpenCV` - 이미지 파일 작업 및 처리
+- `Pandas` - CSV 파일 읽기 및 작업
+- `Numpy` - 텐서 및 numpy 배열 작업
