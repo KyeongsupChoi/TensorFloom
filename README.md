@@ -53,7 +53,7 @@ The project is coded using a simple and intuitive structure presented below:
 >
 > 라이브 사이트
 >
-> MVP
+> MVP 신경망 프로젝트
 
 ## 📂 코드 기반 구조
 
