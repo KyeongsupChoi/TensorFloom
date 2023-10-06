@@ -5,3 +5,4 @@ opencv-python~=4.2.0.0
 scikit-image~=0.19.0
 flask
 gunicorn
+tensorflow_hub
